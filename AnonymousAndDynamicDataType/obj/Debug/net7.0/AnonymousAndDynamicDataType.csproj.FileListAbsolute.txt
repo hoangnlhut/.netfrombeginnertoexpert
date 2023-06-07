@@ -1,0 +1,15 @@
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\AnonymousAndDynamicDataType\bin\Debug\net7.0\AnonymousAndDynamicDataType.exe
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\AnonymousAndDynamicDataType\bin\Debug\net7.0\AnonymousAndDynamicDataType.deps.json
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\AnonymousAndDynamicDataType\bin\Debug\net7.0\AnonymousAndDynamicDataType.runtimeconfig.json
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\AnonymousAndDynamicDataType\bin\Debug\net7.0\AnonymousAndDynamicDataType.dll
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\AnonymousAndDynamicDataType\bin\Debug\net7.0\AnonymousAndDynamicDataType.pdb
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\AnonymousAndDynamicDataType\obj\Debug\net7.0\AnonymousAndDynamicDataType.csproj.AssemblyReference.cache
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\AnonymousAndDynamicDataType\obj\Debug\net7.0\AnonymousAndDynamicDataType.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\AnonymousAndDynamicDataType\obj\Debug\net7.0\AnonymousAndDynamicDataType.AssemblyInfoInputs.cache
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\AnonymousAndDynamicDataType\obj\Debug\net7.0\AnonymousAndDynamicDataType.AssemblyInfo.cs
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\AnonymousAndDynamicDataType\obj\Debug\net7.0\AnonymousAndDynamicDataType.csproj.CoreCompileInputs.cache
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\AnonymousAndDynamicDataType\obj\Debug\net7.0\AnonymousAndDynamicDataType.dll
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\AnonymousAndDynamicDataType\obj\Debug\net7.0\refint\AnonymousAndDynamicDataType.dll
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\AnonymousAndDynamicDataType\obj\Debug\net7.0\AnonymousAndDynamicDataType.pdb
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\AnonymousAndDynamicDataType\obj\Debug\net7.0\AnonymousAndDynamicDataType.genruntimeconfig.cache
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\AnonymousAndDynamicDataType\obj\Debug\net7.0\ref\AnonymousAndDynamicDataType.dll

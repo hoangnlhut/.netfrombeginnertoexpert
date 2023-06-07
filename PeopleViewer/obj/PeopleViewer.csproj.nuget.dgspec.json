@@ -1,0 +1,399 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PeopleViewer\\PeopleViewer.csproj": {}
+  },
+  "projects": {
+    "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PeopleViewer\\PeopleViewer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PeopleViewer\\PeopleViewer.csproj",
+        "projectName": "PeopleViewer",
+        "projectPath": "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PeopleViewer\\PeopleViewer.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PeopleViewer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonReader.Factory\\PersonReader.Factory.csproj": {
+                "projectPath": "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonReader.Factory\\PersonReader.Factory.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonalReader.Interface\\PersonReader.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonalReader.Interface\\PersonReader.Interface.csproj",
+        "projectName": "PersonReader.Interface",
+        "projectPath": "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonalReader.Interface\\PersonReader.Interface.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonalReader.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonReader.CSV\\PersonReader.CSV.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonReader.CSV\\PersonReader.CSV.csproj",
+        "projectName": "PersonReader.CSV",
+        "projectPath": "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonReader.CSV\\PersonReader.CSV.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonReader.CSV\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonalReader.Interface\\PersonReader.Interface.csproj": {
+                "projectPath": "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonalReader.Interface\\PersonReader.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonReader.Factory\\PersonReader.Factory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonReader.Factory\\PersonReader.Factory.csproj",
+        "projectName": "PersonReader.Factory",
+        "projectPath": "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonReader.Factory\\PersonReader.Factory.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonReader.Factory\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonReader.CSV\\PersonReader.CSV.csproj": {
+                "projectPath": "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonReader.CSV\\PersonReader.CSV.csproj"
+              },
+              "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonReader.Service\\PersonReader.Service.csproj": {
+                "projectPath": "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonReader.Service\\PersonReader.Service.csproj"
+              },
+              "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonReader.SQLServer\\PersonReader.SQLServer.csproj": {
+                "projectPath": "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonReader.SQLServer\\PersonReader.SQLServer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonReader.Service\\PersonReader.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonReader.Service\\PersonReader.Service.csproj",
+        "projectName": "PersonReader.Service",
+        "projectPath": "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonReader.Service\\PersonReader.Service.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonReader.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonalReader.Interface\\PersonReader.Interface.csproj": {
+                "projectPath": "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonalReader.Interface\\PersonReader.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonReader.SQLServer\\PersonReader.SQLServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonReader.SQLServer\\PersonReader.SQLServer.csproj",
+        "projectName": "PersonReader.SQLServer",
+        "projectPath": "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonReader.SQLServer\\PersonReader.SQLServer.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonReader.SQLServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonalReader.Interface\\PersonReader.Interface.csproj": {
+                "projectPath": "E:\\Hoang_Corner\\HOANG_SELF_TEACHING\\PROGRAMMING\\.NET\\PersonalReader.Interface\\PersonReader.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

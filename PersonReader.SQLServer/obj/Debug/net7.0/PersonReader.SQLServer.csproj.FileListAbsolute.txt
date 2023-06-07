@@ -1,0 +1,15 @@
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonReader.SQLServer\bin\Debug\net7.0\PersonReader.SQLServer.deps.json
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonReader.SQLServer\bin\Debug\net7.0\PersonReader.SQLServer.dll
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonReader.SQLServer\bin\Debug\net7.0\PersonReader.SQLServer.pdb
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonReader.SQLServer\bin\Debug\net7.0\PersonReader.Interface.dll
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonReader.SQLServer\bin\Debug\net7.0\PersonReader.Interface.pdb
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonReader.SQLServer\obj\Debug\net7.0\PersonReader.SQLServer.csproj.AssemblyReference.cache
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonReader.SQLServer\obj\Debug\net7.0\PersonReader.SQLServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonReader.SQLServer\obj\Debug\net7.0\PersonReader.SQLServer.AssemblyInfoInputs.cache
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonReader.SQLServer\obj\Debug\net7.0\PersonReader.SQLServer.AssemblyInfo.cs
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonReader.SQLServer\obj\Debug\net7.0\PersonReader.SQLServer.csproj.CoreCompileInputs.cache
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonReader.SQLServer\obj\Debug\net7.0\PersonReader.SQLServer.csproj.CopyComplete
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonReader.SQLServer\obj\Debug\net7.0\PersonReader.SQLServer.dll
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonReader.SQLServer\obj\Debug\net7.0\refint\PersonReader.SQLServer.dll
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonReader.SQLServer\obj\Debug\net7.0\PersonReader.SQLServer.pdb
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonReader.SQLServer\obj\Debug\net7.0\ref\PersonReader.SQLServer.dll

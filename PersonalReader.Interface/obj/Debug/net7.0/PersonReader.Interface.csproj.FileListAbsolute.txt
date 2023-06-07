@@ -1,0 +1,12 @@
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonalReader.Interface\bin\Debug\net7.0\PersonReader.Interface.deps.json
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonalReader.Interface\bin\Debug\net7.0\PersonReader.Interface.dll
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonalReader.Interface\bin\Debug\net7.0\PersonReader.Interface.pdb
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonalReader.Interface\obj\Debug\net7.0\PersonReader.Interface.csproj.AssemblyReference.cache
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonalReader.Interface\obj\Debug\net7.0\PersonReader.Interface.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonalReader.Interface\obj\Debug\net7.0\PersonReader.Interface.AssemblyInfoInputs.cache
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonalReader.Interface\obj\Debug\net7.0\PersonReader.Interface.AssemblyInfo.cs
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonalReader.Interface\obj\Debug\net7.0\PersonReader.Interface.csproj.CoreCompileInputs.cache
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonalReader.Interface\obj\Debug\net7.0\PersonReader.Interface.dll
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonalReader.Interface\obj\Debug\net7.0\refint\PersonReader.Interface.dll
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonalReader.Interface\obj\Debug\net7.0\PersonReader.Interface.pdb
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonalReader.Interface\obj\Debug\net7.0\ref\PersonReader.Interface.dll

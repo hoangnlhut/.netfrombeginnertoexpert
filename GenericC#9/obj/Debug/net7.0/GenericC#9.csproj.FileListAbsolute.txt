@@ -1,0 +1,15 @@
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\GenericC#9\obj\Debug\net7.0\GenericC#9.csproj.AssemblyReference.cache
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\GenericC#9\obj\Debug\net7.0\GenericC#9.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\GenericC#9\obj\Debug\net7.0\GenericC#9.AssemblyInfoInputs.cache
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\GenericC#9\obj\Debug\net7.0\GenericC#9.AssemblyInfo.cs
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\GenericC#9\obj\Debug\net7.0\GenericC#9.csproj.CoreCompileInputs.cache
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\GenericC#9\bin\Debug\net7.0\GenericC#9.exe
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\GenericC#9\bin\Debug\net7.0\GenericC#9.deps.json
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\GenericC#9\bin\Debug\net7.0\GenericC#9.runtimeconfig.json
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\GenericC#9\bin\Debug\net7.0\GenericC#9.dll
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\GenericC#9\bin\Debug\net7.0\GenericC#9.pdb
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\GenericC#9\obj\Debug\net7.0\GenericC#9.dll
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\GenericC#9\obj\Debug\net7.0\refint\GenericC#9.dll
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\GenericC#9\obj\Debug\net7.0\GenericC#9.pdb
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\GenericC#9\obj\Debug\net7.0\GenericC#9.genruntimeconfig.cache
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\GenericC#9\obj\Debug\net7.0\ref\GenericC#9.dll

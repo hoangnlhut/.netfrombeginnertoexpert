@@ -1,0 +1,15 @@
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonReader.CSV\bin\Debug\net7.0\PersonReader.CSV.deps.json
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonReader.CSV\bin\Debug\net7.0\PersonReader.CSV.dll
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonReader.CSV\bin\Debug\net7.0\PersonReader.CSV.pdb
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonReader.CSV\bin\Debug\net7.0\PersonReader.Interface.dll
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonReader.CSV\bin\Debug\net7.0\PersonReader.Interface.pdb
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonReader.CSV\obj\Debug\net7.0\PersonReader.CSV.csproj.AssemblyReference.cache
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonReader.CSV\obj\Debug\net7.0\PersonReader.CSV.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonReader.CSV\obj\Debug\net7.0\PersonReader.CSV.AssemblyInfoInputs.cache
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonReader.CSV\obj\Debug\net7.0\PersonReader.CSV.AssemblyInfo.cs
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonReader.CSV\obj\Debug\net7.0\PersonReader.CSV.csproj.CoreCompileInputs.cache
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonReader.CSV\obj\Debug\net7.0\PersonReader.CSV.csproj.CopyComplete
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonReader.CSV\obj\Debug\net7.0\PersonReader.CSV.dll
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonReader.CSV\obj\Debug\net7.0\refint\PersonReader.CSV.dll
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonReader.CSV\obj\Debug\net7.0\PersonReader.CSV.pdb
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\PersonReader.CSV\obj\Debug\net7.0\ref\PersonReader.CSV.dll

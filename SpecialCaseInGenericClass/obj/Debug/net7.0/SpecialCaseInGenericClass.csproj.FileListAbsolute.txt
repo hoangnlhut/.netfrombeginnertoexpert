@@ -1,0 +1,15 @@
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\SpecialCaseInGenericClass\bin\Debug\net7.0\SpecialCaseInGenericClass.exe
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\SpecialCaseInGenericClass\bin\Debug\net7.0\SpecialCaseInGenericClass.deps.json
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\SpecialCaseInGenericClass\bin\Debug\net7.0\SpecialCaseInGenericClass.runtimeconfig.json
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\SpecialCaseInGenericClass\bin\Debug\net7.0\SpecialCaseInGenericClass.dll
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\SpecialCaseInGenericClass\bin\Debug\net7.0\SpecialCaseInGenericClass.pdb
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\SpecialCaseInGenericClass\obj\Debug\net7.0\SpecialCaseInGenericClass.csproj.AssemblyReference.cache
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\SpecialCaseInGenericClass\obj\Debug\net7.0\SpecialCaseInGenericClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\SpecialCaseInGenericClass\obj\Debug\net7.0\SpecialCaseInGenericClass.AssemblyInfoInputs.cache
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\SpecialCaseInGenericClass\obj\Debug\net7.0\SpecialCaseInGenericClass.AssemblyInfo.cs
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\SpecialCaseInGenericClass\obj\Debug\net7.0\SpecialCaseInGenericClass.csproj.CoreCompileInputs.cache
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\SpecialCaseInGenericClass\obj\Debug\net7.0\SpecialCaseInGenericClass.dll
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\SpecialCaseInGenericClass\obj\Debug\net7.0\refint\SpecialCaseInGenericClass.dll
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\SpecialCaseInGenericClass\obj\Debug\net7.0\SpecialCaseInGenericClass.pdb
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\SpecialCaseInGenericClass\obj\Debug\net7.0\SpecialCaseInGenericClass.genruntimeconfig.cache
+E:\Hoang_Corner\HOANG_SELF_TEACHING\PROGRAMMING\.NET\SpecialCaseInGenericClass\obj\Debug\net7.0\ref\SpecialCaseInGenericClass.dll
